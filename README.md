@@ -23,3 +23,7 @@ Quick description of each notebook in the repo.
 `20-review-prediction.ipynb` -- Generate a hashed TF-IDF of the review text. This serves as the primary input to predicting the reivew rating (1-5) with a multinomial Logistic Regression, Decision Tree + Random Forest Classifiers, and Naive Bayes Classifier
 
 `30-reivew-prediction-kmeans.ipynb` -- Building on the tree models from the earlier notebook, use tree-based classifiers (Decision Tree, RF) with the derived K-Means Cluster as one of the model features.
+
+`plots` -- Contains a copy of the visulaizaitons created in `10-eda.ipynb`
+
+`documents` -- Copy of the project presentation
